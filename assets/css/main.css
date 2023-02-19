@@ -3626,7 +3626,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 100vh;
+		height: 1000vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
@@ -4030,6 +4030,7 @@ input, select, textarea {
 
 	body.is-mobile.landing #page-wrapper {
 		background: none;
+		background-size: cover;
 	}
 
 	body.is-mobile.landing #banner,

@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Love 30" # title for frontpage, may include image
 copyright = "Love Björk"
-description = "Kom som din hobby! <br />Maskerad och fåniga lekar efterföljt av middag och fest<br />Lördag 13 maj Uppsala"
+description = "Kom som din hobby! <br />Maskerad och fåniga lekar efterföljt av middag och fest <br />Lördag 13 maj Uppsala"
 startbuttonText = "OSA 10 mars"
 startbuttonLink = "#four"
 body_is_markdown = true
