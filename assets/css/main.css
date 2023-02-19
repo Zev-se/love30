@@ -3757,7 +3757,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 3em 5em 3em ;
-				height: auto;
+				height: 100%;
 				/*min-height: 0;*/
 			}
 
