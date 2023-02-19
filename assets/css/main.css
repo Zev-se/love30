@@ -61,6 +61,14 @@
        url('../fonts/open-sans-v16-latin-800italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+@font-face {
+	font-family: 'Qualy';
+	font-style: normal;
+	font-weight: 1000;
+	src: local('Qualy-Bold.ttf'), local('Qualy-Bold.ttf'),
+		 url('../fonts/Qualy-Bold.ttf') format('truetype'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+		 url('../fonts/Qualy-Bold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
 /*
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
@@ -239,6 +247,7 @@ input, select, textarea {
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
+		font-family: 'Qualy';
 	}
 
 		@media screen and (max-width: 736px) {
@@ -2856,7 +2865,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #3669a3;
+			background-color: #4775aa;
 			color: #c8ece9;
 		}
 
@@ -3015,12 +3024,12 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #16a9bd;
+			background-color: #37d6ec;
 		}
 
 		.wrapper.style3 {
-			background-color: #51b3aa;
-			color: #d3d4e4;
+			background-color: #1dc4b3;
+			color: #dadada;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3178,7 +3187,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style4 {
-				background-color: #41a372;
+				background-color: #26b57f;
 				color: #c8ece9;
 			}
 

@@ -8,7 +8,6 @@ theme = "spectral"
 [params]
 fancyTitle = "Love 30" # title for frontpage, may include image
 copyright = "Love Björk"
-#description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
 description = "Kom som din hobby!<br />Maskerad och fåniga lekar efterföljt av middag och fest<br />Lördag 13 maj Uppsala"
 startbuttonText = "OSA"
 startbuttonLink = "#"
@@ -36,7 +35,7 @@ body = '''
 Vem är du när ingen ser? Eller när du är i ditt verkliga esse? Du kanske har gröna fingrar? Kanske spenderar mer tid på gymmet än i soffan? Kanske bakar du flera gånger i veckan? Eller spelar fotboll? Ta på en matchande outfit och kom som din hobby! Bästa utklädnad koras givetvis!
 '''
 
-[[params.one.icon]]
+[[params.one.icon]] 
 icon = "fa-gamepad"
 style = "1"
 label = "Lorem"
@@ -68,7 +67,7 @@ body = 'Prylar har jag så det räcker och blir över, jag har inget behov för 
 [[params.two.section]]
 img = "img/bed.jpg"
 title = 'Bonede?'
-body = 'Tyvärr är det ont om boende i direkt anslutning till gården, det finns däremot gott om hotell i Uppsala Centrum dit det går stadsbussar till hela natten.'
+body = 'Tyvärr är det ont om boende i direkt anslutning till gården, det finns däremot gott om hotell i centrala Uppsala dit det går stadsbussar till hela natten.'
 
 
 [params.three]
@@ -104,7 +103,7 @@ special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Mer information"
 special = false
 
 
