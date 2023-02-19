@@ -8,9 +8,9 @@ theme = "spectral"
 [params]
 fancyTitle = "Love 30" # title for frontpage, may include image
 copyright = "Love Björk"
-description = "Kom som din hobby!<br />Maskerad och fåniga lekar efterföljt av middag och fest<br />Lördag 13 maj Uppsala"
-startbuttonText = "OSA"
-startbuttonLink = "#"
+description = "Kom som din hobby! <br />Maskerad och fåniga lekar efterföljt av middag och fest<br />Lördag 13 maj Uppsala"
+startbuttonText = "OSA 10 mars"
+startbuttonLink = "#four"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -84,7 +84,7 @@ body = "<a href=https://goo.gl/maps/VNpbv6wQujU17eaq5>Lövängsvägen 49, 756 55
 [[params.three.feature]]
 icon = "fa-bus"
 title = "Buss"
-body = "<a href=https://www.google.com/maps/dir/Uppsala+Centralstation,+Uppsala/F%C3%B6reningen+F%C3%B6reningsg%C3%A5rden+Ekolnsn%C3%A4s,+L%C3%B6v%C3%A4ngsv%C3%A4gen+49,+756+55+Uppsala/@59.8222781,17.593892,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x465fcbf9a0d697b1:0x1901cc46b512aff6!2m2!1d17.6465417!2d59.8581984!1m5!1m1!1s0x465fcbfc4ecacb23:0x41e5c3afce1aee63!2m2!1d17.6193224!2d59.7892327!3e3>Ta buss 11 från Uppsala Centralstation</a> åt endra hållet till Gullvivevägen, gå sen de sista 500 metrarna."
+body = "<a href=https://www.google.com/maps/dir/Uppsala+Centralstation,+Uppsala/F%C3%B6reningen+F%C3%B6reningsg%C3%A5rden+Ekolnsn%C3%A4s,+L%C3%B6v%C3%A4ngsv%C3%A4gen+49,+756+55+Uppsala/@59.8222781,17.593892,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x465fcbf9a0d697b1:0x1901cc46b512aff6!2m2!1d17.6465417!2d59.8581984!1m5!1m1!1s0x465fcbfc4ecacb23:0x41e5c3afce1aee63!2m2!1d17.6193224!2d59.7892327!3e3>Ta buss 11 från Uppsala Centralstation</a> åt endra hållet till Gullvivevägen, gå sedan de sista 500 metrarna."
 
 [[params.three.feature]]
 icon = "fa-users"
@@ -111,7 +111,7 @@ special = false
 enable = true
 title = 'OSA'
 body = '''
-Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se senast den 10 mars. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
+Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se <b>senast den 10 mars</b>. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
 '''
 
 [params.contact]
