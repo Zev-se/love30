@@ -4030,6 +4030,7 @@ input, select, textarea {
 
 	body.is-mobile.landing #page-wrapper {
 		background: none;
+		height: 100%;
 	}
 
 	body.is-mobile.landing #banner,
