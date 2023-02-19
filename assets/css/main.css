@@ -4046,3 +4046,12 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	@media screen and (max-width: 736px) {
+
+		#body.landing {
+			padding: 7em 3em 5em 3em ;
+			height: 100%;
+			/*min-height: 0;*/
+		}
+	}
