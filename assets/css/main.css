@@ -3626,7 +3626,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 1000vh;
+		height: 100vh;
 		/*min-height: 35em;*/
 		overflow: hidden;
 		position: relative;
@@ -4020,7 +4020,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: none;
 		padding-top: 0;
 	}
 
@@ -4030,7 +4030,6 @@ input, select, textarea {
 
 	body.is-mobile.landing #page-wrapper {
 		background: none;
-		height: 100%;
 	}
 
 	body.is-mobile.landing #banner,
@@ -4048,7 +4047,7 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
-	@media screen and (max-width: 1200px) {
+	@media screen and (max-width: 736px) {
 
 		#body.landing {
 			padding: 7em 3em 5em 3em ;
