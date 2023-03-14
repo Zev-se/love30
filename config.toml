@@ -111,7 +111,7 @@ special = false
 enable = true
 title = 'OSA'
 body = '''
-Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se <b>senast den 10 mars</b>. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
+Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se <b>senast den 31 mars</b>. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
 '''
 
 [params.contact]
