@@ -9,7 +9,7 @@ theme = "spectral"
 fancyTitle = "Love 30" # title for frontpage, may include image
 copyright = "Love Björk"
 description = "Kom som din hobby! <br />Maskerad och fåniga lekar efterföljt av middag och fest! <br />Lördag 13 maj Uppsala"
-startbuttonText = "OSA 31 mars"
+startbuttonText = "OSA 28e april"
 startbuttonLink = "#four"
 body_is_markdown = true
 #custom_css = "foo.css"
@@ -111,7 +111,7 @@ special = false
 enable = true
 title = 'OSA'
 body = '''
-Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se <b>senast den 31 mars</b>. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
+Anmäl att du kommer (eller att du tyvärr inte kan delta) via mail till love30@bixt.se <b>senast den 28e april</b>. I anmälan vill vi gärna veta vem/vilka som kommer, evetuella allergier samt ifall ni planerar att förtära alkohol eller ej så att vi kan anpassa mat och dryck. 
 '''
 
 [params.contact]
